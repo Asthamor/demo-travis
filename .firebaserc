@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "fir-travis-asthamor"
+    "default": "fir-travis-asthamor",
+    "demo": "fir-travis-asthamor"
   }
 }
